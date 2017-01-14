@@ -47,7 +47,7 @@ function isTyler(name) {
 
 //What is the difference between arguments and parameters?
 
-  //Answer Here
+
 
 
 //////////////////PROBLEM 5////////////////////
